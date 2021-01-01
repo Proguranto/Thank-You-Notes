@@ -163,7 +163,7 @@ public class tqNotes extends JFrame {
 
     private void megan(JTextArea textArea) {
         textArea.setText("Dear Megan,\n\n"
-                        + "Hi! Thanks so much for the work you have put in, I am truly extremely greatful for everything you've done."
+                        + "Hi! Thanks so much for the work you have put in, I am truly extremely grateful for everything you've done."
                         + "I am aware that I am not in your section and that you aren't my TA, but you have really helped me out in those office hours."
                         + " You have helped me out a lot in developing a student's perspective in approaching things, a step by step approach. Also you inspired me to"
                         + " draw out my confusions in problem solving. Thank you for letting me hop on your quiz sections occasionally whenever I overslept and missed mine "
